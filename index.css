@@ -1,0 +1,12 @@
+body {
+    background-color: #FFFFFF;
+}
+
+p {
+    font-size: 24px;
+}
+
+canvas {
+    background-color: #3C3C3C;
+    cursor: none;
+}
